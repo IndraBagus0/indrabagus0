@@ -1,25 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://instagram.com/ndraabagus" target="__blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/indra-bagus-syah-putra-845025278/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div align="center">
-<h1 align="center">Hi 👋, I'm Indra Bagus</h1>
-<p align="left"> <a href="https://twitter.com/ndraabagus" target="blank"><img src="https://img.shields.io/twitter/follow/ndraabagus?logo=twitter&style=for-the-badge" alt="ndraabagus" /></a> </p>
-</div>
-
-- 🌱 I’m currently learning **Python Bot**
-
-- 📫 How to reach me **indrabusiness00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/ndraabagus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndraabagus" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages :</h3>
 <p align="left">
 
